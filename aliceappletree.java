@@ -1,5 +1,5 @@
 import java.util.*;
-public class alice {
+public class aliceappletree {
     public static void main(String ars[]){
         Scanner sc=new Scanner(System.in);
         int a=sc.nextInt();
@@ -12,3 +12,4 @@ public class alice {
         sc.close();
     }
 }
+
